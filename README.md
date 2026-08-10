@@ -91,13 +91,7 @@ I will continue updating this website as I work on new projects and develop new 
 
 ---
 
-## 📸 Preview
 
-*Add screenshots of your portfolio website here.*
-
-```markdown
-![Portfolio Preview](./assets/portfolio-preview.png)
-```
 
 ---
 
